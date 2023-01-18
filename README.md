@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rintalue
-- 👀 I’m interested in Javascript,React and Python
-- 🌱 I’m currently learning Java and Angular
+- 👀 I’m interested in Javascript,Typescript, Angular and Python
+- 🌱 I’m currently learning python and Angular
 - 💞️ I’m looking to collaborate on projects that involve using Angular
 - 📫 How to reach me via email is at lutherrinta@gmail.com
 
