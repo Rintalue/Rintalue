@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rintalue
 - 👀 I’m interested in Java, Javascript,Typescript, Angular and Python
-- 🌱 I’m currently learning python and Angular
-- 💞️ I’m looking to collaborate on projects that involve using Angular
+- 🌱 I’m currently learning elixir and the phoenix framework
+- 💞️ I’m looking to collaborate on projects that involve using Angular and phoenix
 - 📫 How to reach me via email is at lutherrinta@gmail.com
 
 <!---
